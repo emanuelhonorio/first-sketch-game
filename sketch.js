@@ -8,7 +8,7 @@ var bg;
 function preload() {
   bulletDown = loadImage('./imgs/bulletdown.png');
   bulletUp = loadImage('./imgs/bulletdown.png');
-  spaceShipUp = loadImage('./mgs/spaceshipup.png');
+  spaceShipUp = loadImage('./imgs/spaceshipup.png');
   spaceShipDown = loadImage('./imgs/spaceshipdown.png');
   bg = loadImage('./imgs/bg.jpg');
 }
